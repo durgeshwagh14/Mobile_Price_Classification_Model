@@ -83,8 +83,4 @@ mobile-price-predictor/
   - scikit-learn
   - NumPy
 
------
-
-
-Would you like me to help you create the `requirements.txt` file based on the technologies listed?
-```
+----
