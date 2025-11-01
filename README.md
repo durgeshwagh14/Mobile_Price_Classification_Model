@@ -7,6 +7,7 @@ The trained machine learning model (`best_model.pkl`) classifies phones into one
 - **2** → 💎 High Cost
 - **3** → 🏆 Very High Cost
 
+Project Link : [📱 Mobile Price Range Prediction App](https://mobilepriceclassificationmodel-3onudt2fve8agn9plt5azx.streamlit.app/)
 ---
 
 ## 🚀 Features
